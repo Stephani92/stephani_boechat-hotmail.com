@@ -1,0 +1,9 @@
+C:\Users\steph\source\repos\Produto\Produto\bin\Debug\Produto.exe.config
+C:\Users\steph\source\repos\Produto\Produto\bin\Debug\Produto.exe
+C:\Users\steph\source\repos\Produto\Produto\bin\Debug\Produto.pdb
+C:\Users\steph\source\repos\Produto\Produto\obj\Debug\Produto.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\Produto\Produto\obj\Debug\Produto.Form1.resources
+C:\Users\steph\source\repos\Produto\Produto\obj\Debug\Produto.Properties.Resources.resources
+C:\Users\steph\source\repos\Produto\Produto\obj\Debug\Produto.csproj.GenerateResource.cache
+C:\Users\steph\source\repos\Produto\Produto\obj\Debug\Produto.exe
+C:\Users\steph\source\repos\Produto\Produto\obj\Debug\Produto.pdb
